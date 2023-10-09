@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+head{
+    color: white;
+}
+h1 {
+    color: white;
+}
+img:hover{
+    opacity: 40%;
+}
